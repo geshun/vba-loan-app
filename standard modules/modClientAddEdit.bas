@@ -5,3 +5,4 @@ Public switchAddEdit As Boolean 'a global variable that tracks the interface of 
 Sub switch_add_edit()
     MsgBox switchAddEdit
 End Sub
+

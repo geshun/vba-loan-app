@@ -84,5 +84,4 @@ Function payment_id(clientID As Long, loanPrincipal As Double, nthLoan As Long, 
     
     'return value of function
     payment_id = clintIDStr + "." + loanPrincipalStr + "." + nthLoanStr + "." + nthPayStr + "." + nthAmountStr
-
 End Function

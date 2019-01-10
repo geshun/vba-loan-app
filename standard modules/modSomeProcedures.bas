@@ -6,3 +6,4 @@ Sub calculation_events_screen(bolEnabling As Boolean)
     Application.EnableEvents = bolEnabling
     Application.ScreenUpdating = bolEnabling
 End Sub
+
