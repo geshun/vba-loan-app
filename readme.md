@@ -26,3 +26,7 @@ The following worksheets must be created to host the data. The application relie
 ## Code Organization
 
 Codes are organized in modules.
+
+## UI Design
+
+Userform allows for easy front end access to and entry of data.
