@@ -22,3 +22,7 @@ The following worksheets must be created to host the data. The application relie
 - loan_delinquency
 - client_message
 - loan_delinquency_by_schedule
+
+## Code Organization
+
+Codes are organized in modules.
